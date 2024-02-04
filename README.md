@@ -7,13 +7,13 @@ This repository is dedicated to creating various C programs and projects, cateri
 1. Clone the repository to your local machine using the following command:
 
     ```bash
-    git clone <https://github.com/ashwin-r11/C_dumps>
+    git clone https://github.com/ashwin-r11/C_dumps
     ```
 
 2. Navigate to the repository directory:
 
     ```bash
-    cd <ashwin-r11/C_dumps>
+    cd /C_dumps
     ```
 
 3. Explore the different folders and files to find C programs and projects categorized by difficulty levels.
