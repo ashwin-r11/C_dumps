@@ -4,15 +4,15 @@ This repository contains my solutions to various HackerRank problems in C. The c
 
 ## Difficulty Levels
 
-### Basics
+### basics
 
 ----------------------------------------------------------------------------------------------------------------------
 
-- [Problem 1](./Basics/sum_and_diff_of_2num.c)                                                                                             Your task is to take two numbers of int data type, two numbers of float data type  as input and output their sum.
+- [Problem 1](./basics/sum_and_diff_of_2num.c)                                                                                             Your task is to take two numbers of int data type, two numbers of float data type  as input and output their sum.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-- [Problem 2](./Basics/which_no_is_max_usingfunc.c)                                                                                        Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
+- [Problem 2](./basics/which_no_is_max_usingfunc.c)                                                                                        Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
 
 ----------------------------------------------------------------------------------------------------------------------
 
